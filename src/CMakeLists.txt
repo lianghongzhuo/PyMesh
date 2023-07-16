@@ -10,7 +10,7 @@ add_library(PyMesh::Mesh ALIAS Mesh)
 target_link_libraries(Mesh
     PUBLIC
         PyMesh::third_party::Eigen
-        PyMesh::third_party::TBB
+        TBB::tbb
 )
 
 target_include_directories(Mesh SYSTEM

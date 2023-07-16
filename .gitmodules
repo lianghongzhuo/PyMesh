@@ -12,7 +12,7 @@
 	shallow = true
 [submodule "third_party/triangle"]
 	path = third_party/triangle
-	url = https://github.com/PyMesh/triangle.git
+	url = https://github.com/lianghongzhuo/triangle.git
 	shallow = true
 [submodule "third_party/qhull"]
 	path = third_party/qhull
@@ -36,7 +36,7 @@
 	shallow = false
 [submodule "third_party/pybind11"]
 	path = third_party/pybind11
-	url = https://github.com/PyMesh/pybind11.git
+	url = https://github.com/pybind/pybind11.git
 	shallow = true
 [submodule "third_party/mmg"]
 	path = third_party/mmg
